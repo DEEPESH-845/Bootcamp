@@ -14,7 +14,7 @@ body {
   align-items: center;
   /*Vertically centers content.*/
   min-height: 100vh;
-  background: url('https://svgshare.com/i/1ASy.svg') no-repeat;
+  background: url('Image-2.svg') no-repeat;
   background-size: cover;
   /*Covers the entire body*/
   background-position: center;
@@ -80,7 +80,7 @@ body {
   position: absolute;
   right: 20px;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-50%); 
   font-size: 20px;
 }
 
